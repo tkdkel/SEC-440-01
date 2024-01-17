@@ -1,2 +1,2 @@
 # SEC-440-01
-Systems Security
+All projects, documentation, and configs can be found in the Wiki. 
